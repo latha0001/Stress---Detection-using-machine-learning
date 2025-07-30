@@ -72,8 +72,10 @@ StressDetect ML is an advanced stress detection system that leverages machine le
    ```
 
 4. **Open in browser**
+   
    Navigate to `http://localhost:5173`
-   Vercel Live Link: `https://sd-ml.vercel.app/`
+   
+   Vercel Live Link: https://sd-ml.vercel.app/
 
 ### Build for Production
 ```bash
