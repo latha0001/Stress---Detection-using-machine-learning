@@ -1,0 +1,4 @@
+export interface PhysiologicalData {heartRate: number; bloodPressureSystolic: number; bloodPressureDiastolic: number; respiratoryRate: number; skinConductance: number; bodyTemperature: number;}
+export interface BehavioralData {sleepHours: number; sleepQuality: number; activityLevel: number; screenTime: number; socialInteractions: number; workHours: number;}
+export interface StressAnalysis {overallStressLevel: number; stressCategory: 'Low' | 'Moderate' | 'High' | 'Severe'; physiologicalScore: number; behavioralScore: number; recommendations: string[]; riskFactors: string[];}
+export interface HistoricalDataPoint {timestamp: Date; stressLevel: number; category: string;}
