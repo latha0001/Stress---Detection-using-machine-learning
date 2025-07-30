@@ -57,8 +57,8 @@ StressDetect ML is an advanced stress detection system that leverages machine le
 ### Installation
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd stress-detection-ml
+   git clone <https://github.com/latha0001/Stress---Detection-using-machine-learning>
+   cd https://github.com/latha0001/Stress---Detection-using-machine-learning
    ```
 
 2. **Install dependencies**
